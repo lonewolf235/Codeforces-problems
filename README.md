@@ -12,5 +12,6 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-2 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [Java 11](./codeforces/69/A.java) | `implementation` `math` `*1000` | Jan/25/2022 21:58 | 
-1 | [A - Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | [Java 11](./codeforces/1624/A.java) | `math` `*800` | Jan/25/2022 18:51 | 
+3 | [A - Young Physicist](https://codeforces.com/contest/69/problem/A) | [Java 11](./codeforces/69/A.java) | `implementation` `math` `*1000` | Jan/25/2022 21:58 | 
+2 | [A - Plus One on the Subset](https://codeforces.com/contest/1624/problem/A) | [Java 11](./codeforces/1624/A.java) | `math` `*800` | Jan/25/2022 18:51 | 
+1 | [A - Polycarp and Coins](https://codeforces.com/contest/1551/problem/A) | [Java 11](./codeforces/1551/A.java) | `greedy` `math` `*800` | Jul/24/2021 22:35 | 
